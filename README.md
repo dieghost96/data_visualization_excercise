@@ -1,7 +1,5 @@
 # data_visualization_excercise
 In this repository you will fin the code to visualize data easily  using python
-Sure! Here's how you can convert the content from Slide 7 into a README structure for your project:
-
 ---
 
 # Simple Data Visualization with Python
